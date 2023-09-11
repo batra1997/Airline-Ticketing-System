@@ -4,4 +4,4 @@ In this project we are working with an airline company that operates a diverse f
 
 ## Technologies Used
 
-Python, SQL
+Python, SQL, Excel
